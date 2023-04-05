@@ -8,5 +8,8 @@ A quadtree is a data structure used for efficient processing and storage of two-
 ![alt text](https://cdn.discordapp.com/attachments/359181069196460064/738568252686336091/GIF.gif)<br>
 ![alt text](https://cdn.discordapp.com/attachments/460346519753719820/736160179762102272/GIF.gif)<br>
 
-Model located in the folder "ship_001"<br>
+Model located in the "quadruped" folder.<br>
+![alt text](https://camo.githubusercontent.com/fcdd688b67d12ef3d34a700d9beb05e6ca1f6065b7c4710f9d03118a72a74c0d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3434303032333433393938323732333038322f3738373834343131393332353137393933342f756e6b6e6f776e2e706e67)<br>
+
+Model located in the "ship_001" folder.<br>
 ![alt text](https://cdn.discordapp.com/attachments/359181069196460064/500466668598853632/unknown.png)<br>
