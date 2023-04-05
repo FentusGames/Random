@@ -1,13 +1,12 @@
 # Random
-Just some random code snips, art, 3D models, textures, gifs, etc...
+Random code snippets, art, 3D models, textures, gifs, and other digital assets have become increasingly important in modern-day digital content creation. These assets can be used in various ways, such as in video games, websites, mobile applications, and even virtual reality experiences. These digital creations are the building blocks that bring ideas to life, and the possibilities are endless. Code snippets can be used to enhance the functionality of applications or create new tools altogether.
 
-Example of how minecraft saves on rending cost.<br>
-I don't know what to call "this" but it calculates removal of faces and combines neighboring textures into one texture.<br>
+Minecraft is a popular game that has become renowned for its unique approach to saving on rendering costs. The game achieves this by using a process that involves removing faces and combining neighboring textures into one texture. Although the exact name for this process is not clear, the core of the code responsible for it can be found in the "voxel" folder. By implementing this technique, Minecraft manages to create a visually stunning game environment that does not overload computer systems, ensuring that players can enjoy the game without encountering lag or other performance issues. This approach to game development has become a benchmark for other developers seeking to create visually stunning games that are optimized for various devices.<br>
 ![alt text](https://cdn.discordapp.com/attachments/359181069196460064/512032475325792256/GIF.gif)<br>
 
-Example of a quadtree<br>
-Core of the code for this is avauable in the "quadtree" folder.<br>
+A quadtree is a data structure used for efficient processing and storage of two-dimensional spatial data. The tree divides a two-dimensional space into four equal quadrants recursively, with each node having four child nodes representing the four quadrants. This hierarchical structure allows for fast searching and retrieval of data in large spatial datasets, making it a valuable tool in computer graphics and game development. The core of the code responsible for implementing this technique can be found in the "quadtree" folder, providing developers with a foundation to build upon and tailor to their specific needs. By utilizing quadtree technology, developers can create complex and intricate game environments, allowing players to immerse themselves in rich and diverse virtual worlds.
 ![alt text](https://cdn.discordapp.com/attachments/359181069196460064/738568252686336091/GIF.gif)<br>
 ![alt text](https://cdn.discordapp.com/attachments/460346519753719820/736160179762102272/GIF.gif)<br>
 
+Model located in the folder "ship_001"<br>
 ![alt text](https://cdn.discordapp.com/attachments/359181069196460064/500466668598853632/unknown.png)<br>
